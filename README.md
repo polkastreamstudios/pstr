@@ -1,5 +1,5 @@
 # Project Description
-[Polkastream Studios](https://polkastream.org/) is building an integrated and intelligently monetized platform for the over-the-top (OTT) reaming and Metaverse gaming market. On the [Polkastream](https://polkastream.io/) platform, streamers can listen to music and podcasts, and watch movies and TV shows. Gamers can socialize and play games in the [Polkaverse](https://linktr.ee/polkaverse). In return, all users are rewarded with the PSTR token, which is uniquely designed with incentivization and token-burning strategies for better rewards, long-term crypto market stability, and data security for all digital media users.
+[Polkastream Studios](https://polkastream.org/) is building an integrated and intelligently monetized platform for the over-the-top (OTT) streaming and Metaverse gaming market. On the [Polkastream](https://polkastream.io/) platform, streamers can listen to music and podcasts, and watch movies and TV shows. Gamers can socialize and play games in the [Polkaverse](https://linktr.ee/polkaverse). In return, all users are rewarded with the PSTR token, which is uniquely designed with incentivization and token-burning strategies for better rewards, long-term crypto market stability, and data security for all digital media users.
 
 
 # Tokenomics
