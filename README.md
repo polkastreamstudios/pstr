@@ -3,7 +3,7 @@
 
 
 # Tokenomics
-The PSTR token is minted on the [Binance Smart Chain (BSC) network](https://www.bnbchain.org/en/bnb-smart-chain) with an initial maximum supply of one billion (1,000,000,000) tokens. PSTR is built with an Automated Reward Redistribution and Burn System (ARRBS) that includes:
+PSTR is minted on the [Binance Smart Chain (BSC) network](https://www.bnbchain.org/en/bnb-smart-chain) with an initial maximum supply of one billion (1,000,000,000) tokens. PSTR is built with an Automated Reward Redistribution and Burn System (ARRBS) that includes:
 
 - A 4% fee is automatically applied to all transactions, from which 3% is redistributed to holders, and the remaining 1%, up to 50% of the max supply, is permanently burned.
 - After 50% of the maximum supply is burned, the fee remains at 4% with all of it redistributed to holders and 0% burned.
