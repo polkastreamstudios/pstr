@@ -1,14 +1,14 @@
 # Project Description
-[Polkastream Studios (PDAO)](https://polkastream.org/) is building an integrated and intelligently monetized platform for the over-the-top (OTT) streaming markets. On the [Polkastream](https://polkastream.app/) OTT streaming platform, streamers can enjoy music, podcasts, movies, and TV shows. In return, all users are rewarded with the PSTR token, which is uniquely designed with incentivization and token-burning strategies for better rewards, long-term crypto market stability, and data security for all digital media users.
+[Polkastream Studios (PDAO)](https://polkastream.org/) is building an integrated and intelligently monetized platform for the over-the-top (OTT) streaming market. On the [Polkastream](https://polkastream.app/) platform, streamers can enjoy music, podcasts, movies, and TV shows. In return, all users are rewarded with the PSTR token, which is uniquely designed with incentivization and token-burning strategies for better rewards, long-term crypto market stability, and data security for all digital media users.
 
 
 # Tokenomics
 The PSTR token is minted on Binance Smart Chain (BSC) network with an initial maximum supply of one billion (1,000,000,000) tokens. PSTR is built with an Automated Reward Redistribution and Burn System (ARRBS) that includes:
 
-- A 4% fee is automatically applied to all transactions, from which 3% is distributed to holders, and the remaining 1%, up to 50% of the max supply, is permanently burned.
-- After 50% of the maximum supply is burned, the fee remains at 4% with all of it distributed to holders and 0% burned.
+- A 4% fee is automatically applied to all transactions, from which 3% is redistributed to holders, and the remaining 1%, up to 50% of the max supply, is permanently burned.
+- After 50% of the maximum supply is burned, the fee remains at 4% with all of it redistributed to holders and 0% burned.
 
-As an added token security and stability feature, PSTR has a limit of one million (1,000,000) tokens per transaction. This anti-slippage transaction limit is updateable through Polkastream Decentralized Autonomous Organization (PDAO) proposals made by the Polkastream Community.
+As an added token security and stability feature, PSTR has a limit of one million (1,000,000) tokens per transaction. This anti-slippage transaction limit is updateable through Polkastream Decentralized Autonomous Organization (PDAO) proposals made by the community.
 
 # Utilities
 - Users can earn immersive rewards through Polkastream’s Active Audio and Video Rewards (AAVR) program by listening to music and podcasts, as well as watching movies and TV shows.
@@ -54,7 +54,7 @@ Polkastream contract
 
 - Until official announcements are made, the PSTR token cannot be bought or traded on any platform, whether it be a centralized exchange (CEX), a decentralized exchange (DEX), or a launchpad. The official Polkastream social media channels are accessible at [polkastream.app](https://polkastream.app), and all announcements of investment and/or pre-sale opportunities will be made via those socials. Anyone claiming that you can purchase PSTR otherwise is an impersonator. Be careful and aware of potential scammers. 
 
-- 100% of the PSTR token supply in the Company’s possession will always be stored in the most secure and effective air-gapped wallet currently available in the market. This should provide complete security and safety from hacks, as air-gapped wallets are never connected to the internet and, therefore, cannot be hacked digitally.
+- 100% of the PSTR token supply in the company’s possession will always be stored in the most secure and effective air-gapped wallet currently available in the market. This should provide complete security and safety from hacks, as air-gapped wallets are never connected to the internet and, therefore, cannot be hacked digitally.
 
 
 # Questions?
