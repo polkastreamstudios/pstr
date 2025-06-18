@@ -1,5 +1,5 @@
 # Project Description
-[Polkastream Studios (PDAO)](https://polkastream.org/) is building an integrated and intelligently monetized platform for the over-the-top (OTT) streaming market. On the [Polkastream](https://polkastream.app/) platform, streamers can enjoy music, podcasts, movies, and TV shows. In return, all users are rewarded with the PSTR token, which is uniquely designed with incentivization and token-burning strategies for better rewards, long-term crypto market stability, and data security for all digital media users.
+[Polkastream Studios (PDAO)](https://polkastream.org/) is building an integrated and intelligently monetized platform for the over-the-top (OTT) streaming market. On the [Polkastream](https://polkastream.app/) platform, streamers can enjoy music, podcasts, movies, and TV shows. In return, all users are rewarded with the PSTR token, which is uniquely designed with incentivization and token-burning strategies for better rewards, long-term crypto market stability, and data security for all platform users.
 
 
 # Tokenomics
