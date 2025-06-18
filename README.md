@@ -45,10 +45,6 @@ Polkastream contract
 ```
 
 
-# Security and Tokenomics Audit
-Coming soon.
-
-
 # Disclaimers
 - There is only one PSTR smart contract address on BSC and no other blockchains. Here it is again: [bscscan.com/address/0x3cdd71d99cb393928b74d549d4cb0a6ffe0a60a8](https://bscscan.com/address/0x3cdd71d99cb393928b74d549d4cb0a6ffe0a60a8). Please always confirm it before making any investment decisions.
 
